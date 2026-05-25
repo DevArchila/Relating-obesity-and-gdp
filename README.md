@@ -11,7 +11,7 @@ A análise combina dois datasets públicos do Kaggle, aplica tratamento e interp
 e conclui com correlação de Pearson e regressão linear simples para quantificar a relação entre as variáveis.
 
 A hipótese inicial era de que países mais ricos teriam maiores índices de obesidade. Os resultados confirmaram essa relação,
-mas revelaram que ela é mais fraca do que o esperado — e que fatores culturais e geográficos têm peso explicativo superior ao econômico em vários casos.
+mas revelaram que ela é mais fraca do que o esperado, e que fatores culturais e geográficos têm peso explicativo superior ao econômico em vários casos.
 
 ---
 
@@ -76,7 +76,7 @@ scipy
 | Masculino | 15,9% |
 
 Mulheres apresentam índices consistentemente superiores ao longo de todo o período analisado,
-com diferença de 6,18 pontos percentuais em relação aos homens — padrão explicado por fatores hormonais,
+com diferença de 6,18 pontos percentuais em relação aos homens, padrão explicado por fatores hormonais,
 gasto energético diferencial e comportamentais.
 
 **Países com maior crescimento de obesidade (1975–2016)**
@@ -111,7 +111,7 @@ Países asiáticos continentais com dieta tradicional preservada.
 | p-value | ≈ 0 |
 | R² | 0,102 |
 
-A correlação é estatisticamente real (p ≈ 0), mas de baixo poder explicativo isolado — GDP per capita explica apenas 10,2% da variação global nos índices de obesidade.
+A correlação é estatisticamente real (p ≈ 0), mas de baixo poder explicativo isolado, GDP per capita explica apenas 10,2% da variação global nos índices de obesidade.
 
 ---
 
