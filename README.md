@@ -22,22 +22,7 @@ mas revelaram que ela é mais fraca do que o esperado — e que fatores culturai
 | Obesity among adults by country | 1975–2016 | Kaggle |
 | GDP Per Person | 1901–2011 | Kaggle |
 
-Ambos os datasets são públicos e estão disponíveis na pasta `Datasets/`.
-
----
-
-## Estrutura do repositório
-
-```
-analise-de-obesidade-e-pib-per-capita/
-│
-├── Datasets/
-│   ├── obesity_cleaned.csv
-│   └── gdp.csv
-│
-├── project_relating_obesity_gdp.ipynb
-└── README.md
-```
+Ambos os datasets são públicos e estão disponíveis no Kaggle
 
 ---
 
